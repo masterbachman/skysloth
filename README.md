@@ -1,7 +1,7 @@
 
 # Sky Sloth
 
-![alt text](https://github.com/masterbachman/relay-control-raspberrypi/blob/master/public/images/RelayInAction.gif)
+![alt text](https://github.com/masterbachman/skysloth/blob/main/images/sloth9.jpeg)
 
 Sky Sloth is an innovative C# Blazor tool designed for astrophotographers and astronomy enthusiasts. Specializing in the processing of .fits images - a standard format in astronomical imaging - it ensures that every detail of the night sky is captured with precision.
 
